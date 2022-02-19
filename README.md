@@ -1,7 +1,7 @@
 ## Olá! Eu sou o João
 
 - 👀 Hoje sou um estudante de Engenharia Mecatrônica na UFSJ
-- 🌱 Estudando Dart/Flutter
+- 🌱 Estudando Dart/Flutter e NoSQL
 - 🧾 Conhecimentos em C++ e Python
 
 <div align="center">
